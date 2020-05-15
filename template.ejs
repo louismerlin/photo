@@ -1,0 +1,77 @@
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <title>photos</title>
+  <meta name="description" content="photo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <link async rel="stylesheet" href="./style/normalize.css">
+  <link async rel="stylesheet" href="./style/concrete.css">
+  <style>
+    .container {
+      width: max-content;
+      max-width: 130rem;
+    }
+
+    .has-text-centered {
+      text-align: center;
+    }
+
+    .has-no-margin {
+      margin: 0;
+    }
+
+    img {
+      max-height: 90vh;
+      max-width: 90vw;
+    }
+    img.horizontal {
+      width: 100%;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="container">
+
+    <h1>photos</h1>
+    <h2 class="has-no-margin">par Louis Merlin</h2>
+    <h2 class="has-no-margin">pris avec un Minox 35 GT</h2>
+    <h2 class="has-no-margin">sans retouches</h2>
+
+    <div class="has-text-centered">
+      <% photos.reverse().forEach(function(photo, i){ %>
+      <% let j = photos.length - i %>
+      <br />
+      <hr />
+      <br />
+
+      <div style="text-align: left;">
+        <h2>
+          <a href="#photo-<%= photo.name %>" name="photo-<%= photo.name %>">photo <%= j %></a>
+        </h2>
+        <h3>
+          <%= photo.location %>, <%= photo.month %> <%= photo.year %>, pellicule <%= photo.film %>
+        </h3>
+      </div>
+      <div style="width: 100%;">
+        <img alt="photo" src="./images/<%= photo.name %>.jpg" class="<%= photo.orientation %>" loading="lazy" />
+      </div>
+      <% }); %>
+
+      <br />
+
+    </div>
+
+  </div>
+</body>
+
+</html>
+
