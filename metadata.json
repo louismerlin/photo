@@ -1,295 +1,428 @@
 [{
   "name": "001_05",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "001_07",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "001_09",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "Lausanne",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "001_19",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "Lausanne",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "002_01",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "002_06",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "002_07",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "002_02",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "Lausanne",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "002_11",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "Gordes",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "002_16",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "Gordes",
   "month": "Septembre",
   "year": "2019"
 }, {
   "name": "002_23",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Octobre",
   "year": "2019"
 }, {
   "name": "002_24",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Octobre",
   "year": "2019"
 }, {
   "name": "002_25",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 200",
   "location": "EPFL",
   "month": "Octobre",
   "year": "2019"
 }, {
   "name": "003_01",
   "orientation": "vertical",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "EPFL",
   "month": "Octobre",
   "year": "2019"
 }, {
   "name": "003_03",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Lausanne",
   "month": "Octobre",
   "year": "2019"
 }, {
   "name": "003_04",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Lausanne",
   "month": "Octobre",
   "year": "2019"
 }, {
   "name": "003_05",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Lausanne",
   "month": "Octobre",
   "year": "2019"
 }, {
   "name": "003_08",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Lausanne",
   "month": "November",
   "year": "2019"
 }, {
   "name": "003_11",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Dijon",
   "month": "November",
   "year": "2019"
 }, {
   "name": "003_12",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Beaune",
   "month": "November",
   "year": "2019"
 }, {
   "name": "003_13",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Beaune",
   "month": "November",
   "year": "2019"
 }, {
   "name": "003_14",
   "orientation": "vertical",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Bourgogne-Franche-Comté",
   "month": "November",
   "year": "2019"
 }, {
   "name": "003_15",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Lyon",
   "month": "Décembre",
   "year": "2019"
 }, {
   "name": "003_16",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Lyon",
   "month": "Décembre",
   "year": "2019"
 }, {
   "name": "003_17",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Lyon",
   "month": "Décembre",
   "year": "2019"
 }, {
   "name": "003_18",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Pommiers",
   "month": "Décembre",
   "year": "2019"
 }, {
   "name": "003_19",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Pommiers",
   "month": "Décembre",
   "year": "2019"
 }, {
   "name": "003_20",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Pommiers",
   "month": "Décembre",
   "year": "2019"
 }, {
   "name": "004_01",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Château-d'Œx",
   "month": "Janvier",
   "year": "2020"
 }, {
   "name": "004_05",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Château-d'Œx",
   "month": "Janvier",
   "year": "2020"
 }, {
   "name": "004_06",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Château-d'Œx",
   "month": "Janvier",
   "year": "2020"
 }, {
   "name": "004_09",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Stockholm",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_10",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Stockholm",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_11",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Kiruna",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_14",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Kiruna",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_15",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Kiruna",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_16",
   "orientation": "vertical",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Kiruna",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_17",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Kiruna",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_18",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Ostersund",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_20",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Ostersund",
   "month": "Février",
   "year": "2020"
 }, {
   "name": "004_23",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Moléson",
   "month": "Avril",
   "year": "2020"
 }, {
   "name": "004_24",
   "orientation": "horizontal",
-  "film": "Kodak 400",
+  "film": "Kodak Gold 400",
   "location": "Moléson",
   "month": "Avril",
+  "year": "2020"
+}, {
+  "name": "005_01",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Moléson",
+  "month": "Avril",
+  "year": "2020"
+}, {
+  "name": "005_07",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Mont Tendre",
+  "month": "Mai",
+  "year": "2020"
+}, {
+  "name": "005_09",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Mont Tendre",
+  "month": "Mai",
+  "year": "2020"
+}, {
+  "name": "005_10",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Lac de Tanay",
+  "month": "Mai",
+  "year": "2020"
+}, {
+  "name": "005_12",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Lac de Tanay",
+  "month": "Mai",
+  "year": "2020"
+}, {
+  "name": "005_13",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Lac de Tanay",
+  "month": "Mai",
+  "year": "2020"
+}, {
+  "name": "005_14",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Lac de Tanay",
+  "month": "Mai",
+  "year": "2020"
+}, {
+  "name": "005_15",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gorges de Chauderon",
+  "month": "Août",
+  "year": "2020"
+}, {
+  "name": "005_17",
+  "orientation": "vertical",
+  "film": "Kodak Ektar 100",
+  "location": "Gorges de Chauderon",
+  "month": "Août",
+  "year": "2020"
+}, {
+  "name": "005_19",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gigaro",
+  "month": "Août",
+  "year": "2020"
+}, {
+  "name": "005_20",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gigaro",
+  "month": "Août",
+  "year": "2020"
+}, {
+  "name": "005_23",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gigaro",
+  "month": "Août",
+  "year": "2020"
+}, {
+  "name": "005_24",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gigaro",
+  "month": "Août",
+  "year": "2020"
+}, {
+  "name": "005_25",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Lausanne",
+  "month": "Août",
+  "year": "2020"
+}, {
+  "name": "005_26",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gard",
+  "month": "Septembre",
+  "year": "2020"
+}, {
+  "name": "005_31",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gard",
+  "month": "Septembre",
+  "year": "2020"
+}, {
+  "name": "005_32",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gard",
+  "month": "Septembre",
+  "year": "2020"
+}, {
+  "name": "005_33",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gard",
+  "month": "Septembre",
+  "year": "2020"
+}, {
+  "name": "005_37",
+  "orientation": "horizontal",
+  "film": "Kodak Ektar 100",
+  "location": "Gard",
+  "month": "Septembre",
   "year": "2020"
 }]
